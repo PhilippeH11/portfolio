@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PhilippeH11/portfolio.git/static/css/main.123bb115.css",
+    "main.js": "/PhilippeH11/portfolio.git/static/js/main.b1a013bb.js",
+    "static/js/453.50ba56e4.chunk.js": "/PhilippeH11/portfolio.git/static/js/453.50ba56e4.chunk.js",
+    "index.html": "/PhilippeH11/portfolio.git/index.html",
+    "main.123bb115.css.map": "/PhilippeH11/portfolio.git/static/css/main.123bb115.css.map",
+    "main.b1a013bb.js.map": "/PhilippeH11/portfolio.git/static/js/main.b1a013bb.js.map",
+    "453.50ba56e4.chunk.js.map": "/PhilippeH11/portfolio.git/static/js/453.50ba56e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.123bb115.css",
+    "static/js/main.b1a013bb.js"
+  ]
+}
